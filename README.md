@@ -1,2 +1,2 @@
-# responsive-html-css
- berisikan portofolio responsive yang menggunakan html dan css
+# personal-portofolio-html-css
+ berisikan personal portofolio yang menggunakan html dan css
